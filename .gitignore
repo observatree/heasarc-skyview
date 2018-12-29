@@ -1,5 +1,6 @@
 # IntelliJ IDEA
 .idea/
+skyview-geometry.iml
 # Maven
 target/
 # Emacs
